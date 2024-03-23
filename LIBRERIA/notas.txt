@@ -1,0 +1,9 @@
+------------------------------------------------
+! LIBRERIA MUSHROOM BILLIARDS
+! ARCHIVO CREADO EL 30 DE ENERO DE 2024
+------------------------------------------------
+Aquí de detalla información sobre la libreria para
+el billar magnético de hongo.
+
+*Libreria stem2: Permite calcular la trayectoria de una particula cargada en el tallo del hongo. Detecta que ingresa por el borde superior
+y escapa por el mismo lado.
