@@ -66,4 +66,4 @@ for i in range(1000):
     
 print('END PROGRAM')
 
-plt.show()
+plt.show()z
