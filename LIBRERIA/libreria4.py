@@ -1,4 +1,10 @@
 '''
+This improves the code 
+libreria3.py
+please note that this file should replace libreria3.py
+'''
+
+'''
 HAT MUSHROOM
 This library let simulate the trajectory of a charged particle on the head of the mushroom.
 '''
@@ -6,7 +12,7 @@ This library let simulate the trajectory of a charged particle on the head of th
 from magnetic import *
 import numpy as np
 import matplotlib.pyplot as plt
-from stem2 import *
+from stem3 import *
 
 def mushroomPlotPoints(gamma_left,gamma_right,B,H):
     '''
